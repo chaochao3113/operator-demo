@@ -1,0 +1,8 @@
+apiVersion: k8s.dyc.com/v1alpha1
+kind: DemoPod
+metadata:
+  name: example-demopod
+spec:
+  # Add fields here
+  # size: 3
+  replicas: 1
